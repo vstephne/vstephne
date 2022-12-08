@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-13614
-Fork on GitHub
-3586
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Varshaa Shree</h1>
 <h3 align="center">A passionate full stack developer</h3>
 

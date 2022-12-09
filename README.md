@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C# and .NET**
 
-- 👨‍💻 All of my projects are available at [https://vstephne.github.io/Varshaa%20Portfolio/Varshaa/index.html](https://vstephne.github.io/Varshaa%20Portfolio/Varshaa/index.html)
+<!-- - 👨‍💻 All of my projects are available at [https://vstephne.github.io/Varshaa%20Portfolio/Varshaa/index.html](https://vstephne.github.io/Varshaa%20Portfolio/Varshaa/index.html) -->
 
 - 📫 How to reach me **varshaashree14@gmail.com**
 
